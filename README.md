@@ -206,5 +206,5 @@ This project is open source. Feel free to use, modify, and distribute.
 ---
 
 <p align="center">
-  <sub>Built with 🧠 and ☢️ by <a href="https://github.com/Axshatt">Akshat Singh</a></sub>
+  <sub>Built with 🧠 and ☢️ by <a href="https://github.com/adri-vibecode">Adri Goswami</a></sub>
 </p>
